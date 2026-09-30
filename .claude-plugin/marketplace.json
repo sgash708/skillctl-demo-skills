@@ -1,0 +1,20 @@
+{
+  "name": "skillctl-demo-skills",
+  "owner": {
+    "name": "sgash708"
+  },
+  "plugins": [
+    {
+      "name": "code-review",
+      "source": "./code-review",
+      "description": "Review a diff for correctness bugs and missing tests",
+      "version": "0.0.0"
+    },
+    {
+      "name": "commit-message",
+      "source": "./commit-message",
+      "description": "Write a Conventional Commits message from the staged diff",
+      "version": "0.0.0"
+    }
+  ]
+}

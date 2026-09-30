@@ -1,0 +1,5 @@
+{
+  "name": "commit-message",
+  "description": "Write a Conventional Commits message from the staged diff",
+  "version": "0.0.0"
+}
